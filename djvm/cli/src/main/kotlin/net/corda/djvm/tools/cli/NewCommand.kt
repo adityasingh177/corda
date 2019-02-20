@@ -55,7 +55,7 @@ class NewCommand : CommandBase() {
     companion object {
 
         val TEMPLATE = """
-            |package net.corda.djvm;
+            |package net.corda.sandbox;
             |
             |import java.util.function.Function;
             |
